@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi There, I am a senior sofware engineer 👋
+## SkillSet
+Coding with multipe language
+Docker/K8S
+CD/CI With Jenkins/GithubAction/Bitbucket CI/GitLabRunner
+Sketchout design with markup language
+
 
 <!--
 **tuantla/tuantla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
